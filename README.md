@@ -1,3 +1,3 @@
 # fullstacktb
-#today we are learning git.<br>
-instructor is vinay sir.
+Today we are Learning git.<br>
+Instructor is Vinay sir.
