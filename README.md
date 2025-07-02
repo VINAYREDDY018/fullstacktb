@@ -1,3 +1,5 @@
 # fullstacktb
-Today we are Learning git.<br>
+Today we are Learning git.
+
+
 Instructor is Vinay sir.
